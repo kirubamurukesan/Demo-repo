@@ -1,2 +1,2 @@
 # Demo-repo
-Demo repo for learning
+Demo repo for learning purpose.
